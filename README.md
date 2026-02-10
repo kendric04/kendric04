@@ -38,3 +38,14 @@ Modèle de prédiction de prix immobiliers développé entièrement en Java pour
 
 ###  Pourquoi ce projet ?
 Contrairement aux scripts rapides, ce projet met en avant la gestion des erreurs et l'efficacité algorithmique.
+
+#  Outil de Gestion de Commandes Automatisé
+
+###  Le Problème
+Les processus manuels de commande ralentissent la croissance des petites entreprises.
+
+###  Ma Solution (Python)
+Automatisation complète du flux de commande, de la saisie à la confirmation.
+
+###  Impact Commercial
+Réduction du temps de traitement manuel de 40% et élimination des erreurs de saisie courantes.
