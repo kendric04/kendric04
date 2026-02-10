@@ -26,7 +26,7 @@ Analyser les données massives de NYC (2021-2024) pour optimiser l'allocation de
 ### Impact & Résultats
 Recommandations stratégiques permettant une réduction théorique de 15% des trajets à vide.
 
- **[🔗 Voir le code du projet](https://github.com/kendric04/kendric04/commit/16fafcfaad8f8ecc039e50ac893f03782c20f2aa)**
+ **[🔗 Voir le projet](https://github.com/kendric04/kendric04/commit/16fafcfaad8f8ecc039e50ac893f03782c20f2aa)**
 
 
 #  House Price Predictor - Java Edition
