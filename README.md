@@ -25,3 +25,16 @@ Analyser les données massives de NYC (2021-2024) pour optimiser l'allocation de
 
 ### Impact & Résultats
 Recommandations stratégiques permettant une réduction théorique de 15% des trajets à vide.
+
+#  House Price Predictor - Java Edition
+
+###  Description
+Modèle de prédiction de prix immobiliers développé entièrement en Java pour démontrer la robustesse et la scalabilité du code.
+
+###  Caractéristiques techniques
+- **Architecture** : Programmation Orientée Objet (POO).
+- **Algorithme** : Implémentation de la régression linéaire.
+- **Qualité du code** : Code propre, commenté et structuré selon les standards industriels.
+
+###  Pourquoi ce projet ?
+Contrairement aux scripts rapides, ce projet met en avant la gestion des erreurs et l'efficacité algorithmique.
