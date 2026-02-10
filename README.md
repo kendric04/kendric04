@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Kendric !
 
-Étudiant finissant en **Science des données appliquée** à La Cité Collégiale (graduation Mai 2026). J'aide les entreprises à transformer leurs données en décisions stratégiques.
+Étudiant finissant en **Science des données appliquée** à La Cité Collégiale. J'aide les entreprises à transformer leurs données en décisions stratégiques.
 
 ### 📊 Expertise & Technologies
 - **Analyse de données :** Python (Pandas, Scikit-learn), R.
