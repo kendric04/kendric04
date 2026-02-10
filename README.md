@@ -42,6 +42,8 @@ Modèle de prédiction de prix immobiliers développé entièrement en Java pour
 ###  Pourquoi ce projet ?
 Contrairement aux scripts rapides, ce projet met en avant la gestion des erreurs et l'efficacité algorithmique.
 
+**[🔗 Voir le projet](https://github.com/kendric04/House-Price-Predictor)**
+
 #  Outil de Gestion de Commandes Automatisé
 
 ###  Le Problème
