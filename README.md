@@ -1,11 +1,15 @@
 # 👋 Salut, moi c'est Kendric !
 
-Étudiant en **Science des données appliquée** à La Cité Collégiale (Ottawa), je termine mon cursus en mai 2026. J'aime transformer des données brutes en décisions stratégiques.
+Étudiant finissant en **Science des données appliquée** à La Cité Collégiale (graduation Mai 2026). J'aide les entreprises à transformer leurs données en décisions stratégiques.
 
-### 📊 Expertise & Tech Stack
-- **Langages :** Python, R, SQL
-- **Data Science :** Analyse prédictive, Machine Learning (Scikit-learn), Visualisation (Matplotlib)
-- **Projets :** Analyse des risques de crédit (UCI) et optimisation de flotte (NYC Taxi)
+### 📊 Expertise & Technologies
+- **Analyse de données :** Python (Pandas, Scikit-learn), R.
+- **Développement :** Java (POO), Python.
+- **Visualisation :** Matplotlib, Seaborn, Tableau.
+
+### 🚀 Projets Vedettes
+1. **NYC Taxi Analysis** : Optimisation de flotte et impact écologique.
+2. **House Price Predictor** : Modèle prédictif robuste développé en Java.
+3. **Order Manager** : Outil d'automatisation des commandes en Python.
 
 ---
-📫 **Contact :** www.linkedin.com/in/kendric-guerrin-tatchuenwa-nziguem-678a02328
