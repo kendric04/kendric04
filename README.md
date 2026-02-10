@@ -54,4 +54,5 @@ Automatisation complète du flux de commande, de la saisie à la confirmation.
 
 ###  Impact Commercial
 Réduction du temps de traitement manuel de 40% et élimination des erreurs de saisie courantes.
+
 **[🔗 Voir le projet](https://github.com/kendric04/Order-Management-Tool)**
